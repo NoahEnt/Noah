@@ -1,4 +1,4 @@
-# Telos Decide Governance Engine
+# Noah Decide Governance Engine
 
 Telos Decide is an on-chain governance engine exclusively for the Telos Blockchain Network that offers an extensive suite of voting services and DAC/DAO tools for both users and developers.
 
